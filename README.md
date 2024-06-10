@@ -1,0 +1,2 @@
+# Kamakura.github.io
+kamakurapage
